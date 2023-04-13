@@ -1,4 +1,4 @@
-[![Per Scholas](per_scholas.png)](https://www.perscholas.org) 
+[![Per Scholas](ps.png)](https://www.perscholas.org) 
 
 # Terraform
 
